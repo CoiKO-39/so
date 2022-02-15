@@ -2,15 +2,15 @@
     "pageCount": 1,
     "list": [
         {
-            "title": "Snake",
-            "artists": "Afterglow",
-            "author": "BanG Dream! Girls Band Party!",
-            "cover": "https://sonolus.com/assets/jacket089.png",
-            "bgm": "https://sonolus.com/assets/bgm089.mp3",
+            "title": "有你 You Need",
+            "artists": "ColdP feat.初音未来",
+            "author": "ColdP",
+            "cover": "https://coiko-39.github.io/so/need/cover.jpg",
+            "bgm": "https://coiko-39.github.io/so/need/bgm.mp3",
             "difficulties": [
                 {
                     "name": "redo",
-                    "rating": 20
+                    "rating": 29
                 }
             ]
         }
